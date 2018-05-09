@@ -1,4 +1,3 @@
-App27.MainActivity, App27;md5a7e29d71ff69b95ef49b4e96fe9c37f1.MainActivity
-App27.MainActivity, App27, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a7e29d71ff69b95ef49b4e96fe9c37f1.MainActivity
-App27.MainActivity;md5a7e29d71ff69b95ef49b4e96fe9c37f1.MainActivity
-app27.MainActivity;md5a7e29d71ff69b95ef49b4e96fe9c37f1.MainActivity
+App27.MainActivity, App27;md523a76b8c86d707b33d940d420c9b8902.MainActivity
+App27.MainActivity;md523a76b8c86d707b33d940d420c9b8902.MainActivity
+app27.MainActivity;md523a76b8c86d707b33d940d420c9b8902.MainActivity

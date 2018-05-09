@@ -1,6 +1,7 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using Android.Animation;
 
 namespace App27
 {
@@ -27,6 +28,13 @@ namespace App27
                 isClick = false;
             }else {
                 mbt.SetBackgroundResource(Resource.Drawable.heart_press);
+                ObjectAnimator animator = ObjectAnimator.OfFloat(mbt, "scaleY", 1f, 1.2f, 1f);
+                animator.SetDuration(1000);
+                animator.Start();
+
+                ObjectAnimator animator1 = ObjectAnimator.OfFloat(mbt, "scaleX", 1f, 1.2f, 1f);
+                animator1.SetDuration(1000);
+                animator1.Start();
                 isClick = true;
             }
         }
